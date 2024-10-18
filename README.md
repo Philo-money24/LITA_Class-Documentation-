@@ -1,2 +1,12 @@
-# LITA_Class-Documentation-
-This is where I documented my first while learning Data Analysis with the Incubator Hub
+#LITA_Class-Documentation-
+
+# Project Title: Sales Projection
+
+
+# Data Sources
+
+-  Microsoft Excel[Download Here](https://www.microsoft.com)
+-  
+-  Tableaux 
+- PowerBi
+- SQL
